@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[osu:home|Door43 (osu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-osu|d43-osu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-osu/archive/master.zip|d43-osu.zip]]
+
+**Recent Changes**
+{{changes>ns = osu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/osu|Ethnologue data]]
+
